@@ -40,6 +40,4 @@ Finally, I started mapping the mechanical switches using Net Labels (IO1 to IO9)
 
 ![WhatsApp Image 2026-10-05 at 22.57.40](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/T4VNKFYucNS23P2qnOKuArH2j1qOxcfx/629ee4a60f91d0b9d73dbbe4831683d252723393d106654ae36645368918d0cd.jpeg)
 
-![WhatsApp Image 2026-10-05 at 21.54.15](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/T4VNKFYucNS23P2qnOKuArH2j1qOxcfx/545a13477a98ba9a4092b646bb48e4ba60000d2fd794dd3d2717ca728d2cb653.jpeg)
-
 ![WhatsApp Image 2026-10-05 at 23.07.08](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/T4VNKFYucNS23P2qnOKuArH2j1qOxcfx/600e640abc2a702e7379e5e5a8a77cc5e0aee00e7cad367ecc28553d4d6e9af8.jpeg)

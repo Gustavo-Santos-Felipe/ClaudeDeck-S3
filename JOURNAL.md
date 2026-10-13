@@ -67,6 +67,4 @@ We finished by applying a 0.25 mm clearance (offset) between the cover and the b
 
 ![WhatsApp Image 2026-10-12 at 18.15.57](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/T4VNKFYucNS23P2qnOKuArH2j1qOxcfx/78b381c6ea87af8d24de6da88605ba73cfef67e82784cf1a33af21f04e3ab929.jpg)
 
-![WhatsApp Image 2026-10-12 at 22.29.21](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/T4VNKFYucNS23P2qnOKuArH2j1qOxcfx/8e883973cd049f93e6518da2ed26859844f127dcf980b4bedf29d3a7584adc72.jpg)
-
 ![WhatsApp Image 2026-10-12 at 14.43.34](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/T4VNKFYucNS23P2qnOKuArH2j1qOxcfx/94e751374381aef367ed002dc56aed0e417733ce63cbb8ad377ad0dccc1baf25.jpg)

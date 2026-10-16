@@ -1,5 +1,6 @@
 # ClaudeDeck S3
 
+
 A custom 3x3 mechanical macropad powered by the ESP32-S3, featuring a 0.91" OLED display and per-key RGB lighting.
 
 ## Features

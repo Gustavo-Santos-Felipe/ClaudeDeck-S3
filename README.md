@@ -31,11 +31,15 @@ Here is the electronic schematic and the PCB layout designed in KiCad:
 
 
 ## Bill of Materials (BOM)
-Here is the cost breakdown and parts list for the core components:
+Here is the complete parts list and cost breakdown for the ClaudeDeck S3:
 
-| Part | Description | Quantity | Estimated Cost (USD) | Supplier Link |
-| :--- | :--- | :---: | :---: | :--- |
-| **ESP32-S3-WROOM-1** | Main microcontroller | 1 | $17.00 | [Mercado Livre](https://www.mercadolivre.com.br/placa-esp32s3-n16r8-16mb-flash-8mb-psram-wifi-ble/up/MLBU3872815117) |
-| **Cherry MX Switches** | Mechanical switches (Pack of 5) | 2 | $10.00 | [Mercado Livre](https://lista.mercadolivre.com.br/switch-mx-cherry) |
-| **0.91" OLED I2C** | 128x32 display | 1 | $4.50 | [Mercado Livre](https://www.mercadolivre.com.br/display-oled-128x32-ssd1306-i2c-091-azul-para-arduino/p/MLB2068167145) |
-| **WS2812B LEDs** | SMD 5050 RGB LEDs (Pack of 100) | 1 | $6.00 | [Mercado Livre](https://www.mercadolivre.com.br/100-pecas-led-diodo-smd-rgb-5050-ws2812b-cobertura-branca/up/MLBU4616181690) |
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+| :--- | :---: | :--- | :---: | :---: | :--- |
+| **ESP32-S3-WROOM-1 / ESP32-S3 N16R8 Dev Board** | 1 | Mercado Livre BR | $16.00 | $16.00 | [View Item](https://www.mercadolivre.com.br/esp32s3-n16r8-com-16mb-flash-8mb-psram--brinde-cabo-usb/up/MLBU3759855210?pdp_filters=item_id:MLB4444095515#polycard_client=cart_list&wid=MLB4444095515&sid=cart) |
+| **Switches** | 1 | Mercado Livre BR | $6.00 | $6.00 | [View Item](https://www.mercadolivre.com.br/p/MLB2091173212?pdp_filters=item_id%3AMLB2655745171&sid=cart#polycard_client=cart_list&wid=MLB2655745171&sid=cart) |
+| **OLED Display 0.91 inch I2C (128x32)** | 1 | Mercado Livre BR | $11.50 | $11.50 | [View Item](https://produto.mercadolivre.com.br/MLB-4553164164-display-oled-128x32-pixel-091-polegadas-4-pinos-i2c-_JM?sid=cart&variation=180159447384#polycard_client=cart_list&sid=cart) |
+| **WS2812B SMD 5050 RGB LEDs** | 4 | Mercado Livre BR | $5.00 | $20.00 | [View Item](https://www.mercadolivre.com.br/kit-100-unidades-chip-led-rgb-5050-alto-brilho-chip-rgb/up/MLBU1424762403?pdp_filters=item_id:MLB2732140753#polycard_client=cart_list&wid=MLB2732140753&sid=cart) |
+| **USB-C module** | 1 | Mercado Livre BR | $3.00 | $3.00 | [View Item](https://www.mercadolivre.com.br/conector-usb-c-31-16-pin-femea-modulo-para-soldagem-pcb/up/MLBU3682374993#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=6&type=product&tracking_id=4e6fd306-2cde-41ae-84a4-90954688069a&wid=MLB6074587522&sid=search) |
+| **Encoder** | 1 | Mercado Livre BR | $8.00 | $8.00 | [View Item](https://www.mercadolivre.com.br/10-encoder-rotativo-com-chave-5-terminais-potenciometro-ec11/up/MLBU1466437144?pdp_filters=item_id:MLB4050025882#polycard_client=cart_list&wid=MLB4050025882&sid=cart) |
+| **Estimated total shipping** | 1 | - | - | $0.00 | - |
+| **TOTAL** | | | | **$64.50** | |

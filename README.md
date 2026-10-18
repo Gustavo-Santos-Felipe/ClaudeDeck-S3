@@ -64,8 +64,8 @@ In the second week, I modeled a custom professional enclosure in Autodesk Fusion
 ### Week 2 Bill of Materials (Hardware & 3D Printing)
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 | :--- | :---: | :--- | :---: | :---: | :--- |
-| **M3 Heat-Set Inserts** | 4 | Mercado Livre BR | $2.00 | $2.00 | [View Item](#) |
-| **M3x6mm Screws** | 4 | Mercado Livre BR | $2.00 | $2.00 | [View Item](#) |
-| **10mm Silicone Rubber Feet (Bumpons)** | 4 | Mercado Livre BR | $3.00 | $3.00 | [View Item](#) |
-| **PLA / PETG Filament** | 1 | Mercado Livre BR | $15.00 | $15.00 | [View Item](#) |
+| **M3 Heat-Set Inserts** | 4 | Mercado Livre BR | $2.00 | $2.00 | [View Item](https://lista.mercadolivre.com.br/inserto-roscado-m3) |
+| **M3x6mm Screws** | 4 | Mercado Livre BR | $2.00 | $2.00 | [View Item](https://lista.mercadolivre.com.br/parafuso-m3x6) |
+| **10mm Silicone Rubber Feet (Bumpons)** | 4 | Mercado Livre BR | $3.00 | $3.00 | [View Item](https://lista.mercadolivre.com.br/gota-silicone-adesiva-10mm) |
+| **PLA / PETG Filament (1Kg)** | 1 | Mercado Livre BR | $15.00 | $15.00 | [View Item](https://www.mercadolivre.com.br/filamento-pla-preto-1kg-voolt3d-175mm-premium-para-imprimir-pecas-3d-impressao-3d-cor-preta-modelagem-miniaturas-enfeites-e-projetos-em-impressoras-3d/p/MLB26212091) |
 | **TOTAL WEEK 2** | | | | **$22.00** | |

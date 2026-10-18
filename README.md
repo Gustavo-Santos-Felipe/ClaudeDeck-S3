@@ -45,10 +45,13 @@ In the second week, I modeled a custom professional enclosure in Autodesk Fusion
 ### 3D CAD Renders
 
 **Top View (Ergonomic Wedge):**
-![Vista Superior](<docs/Vista superior da caixa em 3D.jpeg>)
+### 3D CAD Renders
+
+**Top View (Ergonomic Wedge):**
+![Top View](<docs/3D case top view.jpeg>)
 
 **Bottom View (Debossed Logo & Feet Cavities):**
-![Vista Inferior](<docs/Vista inferior da caixa 3D.jpeg>)
+![Bottom View](<docs/bottom view of 3D case.jpeg>)
 
 ### Week 2 Bill of Materials (Hardware & 3D Printing)
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |

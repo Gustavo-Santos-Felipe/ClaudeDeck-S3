@@ -3,7 +3,15 @@
 <img width="638" height="480" alt="images (1)" src="https://github.com/user-attachments/assets/7349a6db-e038-493d-b298-502bd0999857" />
 
 A custom 3x3 mechanical macropad powered by the ESP32-S3, featuring a 0.91" OLED display and per-key RGB lighting.
+## Why and How I Made It
+I built the ClaudeDeck S3 because I needed a dedicated, programmable hardware interface to speed up my workflow in CAD software (like Fusion 360) and programming IDEs. I wanted something fully customizable, from the mechanical feel of the switches to the macros executed by the ESP32-S3. 
 
+**How it was made:**
+1. **PCB Design (Week 1):** I designed the schematic and routed the custom PCB using KiCad. I ensured proper trace widths for the power delivery to the WS2812B LEDs and created a compact layout that fits exactly under the 3x3 switch grid.
+2. **Enclosure Design (Week 2):** I modeled a custom 6-degree angled ergonomic case in Autodesk Fusion 360, incorporating exact tolerances (0.25mm) for 3D printing and precise cutouts for the OLED screen and USB-C port.
+
+## Hardware Design
+Here is the electronic schematic and the PCB layout designed in KiCad:
 ## Features
 - **Microcontroller:** ESP32-S3-WROOM-1 with Wi-Fi and Bluetooth capabilities.
 - **Switches:** 3x3 matrix (9 keys) compatible with standard Cherry MX mechanical switches.

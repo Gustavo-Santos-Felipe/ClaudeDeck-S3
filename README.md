@@ -42,7 +42,13 @@ In the first week, I designed the schematic and routed the custom PCB using KiCa
 In the second week, I modeled a custom professional enclosure in Autodesk Fusion 360. Moving away from a basic flat box, I implemented a 6-degree ergonomic typing angle, 0.25mm manufacturing tolerances for the 3D print, customized anti-slip feet cavities, precise Z-axis clearance for the USB-C port, and debossed "ClaudeDeck S3" branding.
 
 ### 3D CAD Renders
-*(**Nota para ti:** Clica em "Edit" no GitHub e arrasta para aqui as tuas fotos da carcaça branca, da inclinação, da parte de baixo com o texto, etc.)*
+### 3D CAD Renders
+
+**Top View (Ergonomic Wedge):**
+![Vista Superior](<docs/Vista superior da caixa em 3D.jpeg>)
+
+**Bottom View (Debossed Logo & Feet Cavities):**
+![Vista Inferior](<docs/Vista inferior da caixa 3D.jpeg>)
 
 ### Week 2 Bill of Materials (Hardware & 3D Printing)
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |

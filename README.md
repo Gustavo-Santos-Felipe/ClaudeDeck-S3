@@ -63,14 +63,17 @@ CAD files and enclosure hardware BOM are in [`CAD/`](CAD/README.md).
 ## Bill of Materials
 
 - **Electronics / PCB BOM:** [`PCB/BOM.csv`](PCB/BOM.csv)
-- Item,Qty,Supplier,Cost/item,Total Cost,link
-M3 Heat-Set Inserts,1,Mercado Livre BR,$2.00,$2.00,https://lista.mercadolivre.com.br/inserto-roscado-m3
-M3x6mm Screws,1,Mercado Livre BR,$2.00,$2.00,https://lista.mercadolivre.com.br/parafuso-m3x6
-10mm Silicone Rubber Feet (Bumpons),1,Mercado Livre BR,$3.00,$3.00,https://lista.mercadolivre.com.br/gota-silicone-adesiva-10mm
-PLA / PETG Filament (1Kg),1,Mercado Livre BR,$15.00,$15.00,https://www.mercadolivre.com.br/filamento-pla-preto-1kg-voolt3d-175mm-premium-para-imprimir-pecas-3d-impressao-3d-cor-preta-modelagem-miniaturas-enfeites-e-projetos-em-impressoras-3d/p/MLB26212091
-Estimated total shipping,1,,$0.00,$0.00,
-Estimated total shipping,1,,,$0.00,
+
 - **Enclosure / 3D Printing BOM:** [`CAD/BOM.csv`](CAD/BOM.csv)
+- ## Bill of Materials (BOM)
+
+| Item | Quantity | Unit Price | Total Price | Link |
+| :--- | :---: | :---: | :---: | :--- |
+| **M3 Heat-Set Inserts** | 1 | $2.00 | $2.00 | [View Item](https://lista.mercadolivre.com.br/inserto-roscado-m3) |
+| **M3x6mm Screws** | 1 | $2.00 | $2.00 | [View Item](https://lista.mercadolivre.com.br/parafuso-m3x6) |
+| **10mm Silicone Rubber Feet (Bumpons)** | 1 | $3.00 | $3.00 | [View Item](https://lista.mercadolivre.com.br/gota-silicone-adesiva-10mm) |
+| **PLA / PETG Filament (1Kg)** | 1 | $15.00 | $15.00 | [View Item](https://www.mercadolivre.com.br/filamento-pla-preto-1kg-voolt3d-175mm-premium-para-imprimir-pecas-3d-impressao-3d-cor-preta-modelagem-miniaturas-enfeites-e-projetos-em-impressoras-3d/p/MLB26212091) |
+| **Estimated total shipping** | 1 | $0.00 | $0.00 | - |
 
 ## Project Journal
 

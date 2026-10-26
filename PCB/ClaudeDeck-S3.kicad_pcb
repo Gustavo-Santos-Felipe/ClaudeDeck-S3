@@ -143,7 +143,7 @@
 		)
 		(path "/8f78648f-f4fd-4c5d-930a-9d50b91ce100")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -435,7 +435,7 @@
 		)
 		(path "/6f1f32dc-5afb-4939-b002-20eb7c4a10e2")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -736,7 +736,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a6639ded-bf9f-4809-87a4-2d1c243a7480")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -886,7 +886,7 @@
 		(property ki_fp_filters "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/5e29dfb2-7358-4fb4-82de-c2f934cb7d25")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1198,7 +1198,7 @@
 		)
 		(path "/aa8de85e-a3da-4dff-9fc9-dfe5886d826e")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1491,7 +1491,7 @@
 		(property ki_fp_filters "RotaryEncoder*Switch*")
 		(path "/4f2f5a72-2b50-4812-b5ca-72f6ee85e126")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1932,7 +1932,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/395bd2cc-7d13-440f-84ac-9de701d91def")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2084,7 +2084,7 @@
 		(property ki_fp_filters "ESP32?S3?WROOM?1*")
 		(path "/52dfa9ad-52ac-4eec-95ab-37d4e0a725a6")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3023,7 +3023,7 @@
 		(property ki_fp_filters "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/5e81ada2-6331-4bf6-9239-5323e1af5d77")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3336,7 +3336,7 @@
 		(property ki_fp_filters "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/f95a21af-b9af-4014-a9db-63912979d224")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3651,7 +3651,7 @@
 		(property ki_fp_filters "ER?OLEDM0.91?1x?I2C*")
 		(path "/22c82e38-c71e-4d36-81e9-e052601d9571")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3871,7 +3871,7 @@
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/b3607475-c847-4db8-820a-2d1a35ed5292")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4142,7 +4142,7 @@
 		)
 		(path "/be67a9f0-9dcc-4748-997b-012b53b866bb")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4435,7 +4435,7 @@
 		(property ki_fp_filters "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/a48247ae-2aff-4600-a246-72acd6aa5405")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4756,7 +4756,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e678d75a-3761-4e8e-837d-b1254a8e930b")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4914,7 +4914,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/27d1708d-f18e-4f90-8ebd-26f33152a688")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5072,7 +5072,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/608c5228-7a1b-42bf-9312-a63dbaf2ae55")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5222,7 +5222,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/cff7416e-0f24-498d-8a9f-5f9e39989947")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5659,7 +5659,7 @@
 		)
 		(path "/6478e25c-7129-4278-8ebe-4b8ffde45be0")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5951,7 +5951,7 @@
 		)
 		(path "/18a8592e-a84f-472c-9741-6d86e8e5494f")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6243,7 +6243,7 @@
 		)
 		(path "/cb99cbdd-be6a-491c-b5a8-4a1d69ee649a")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6544,7 +6544,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/093b4cb9-38a5-4277-98bf-6de6079273f1")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6702,7 +6702,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4f00f98c-93c9-4dba-b333-617932ea4011")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6851,7 +6851,7 @@
 		)
 		(path "/0c4aeb27-046c-4fd7-bdd1-ca5fa5adf129")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7143,7 +7143,7 @@
 		)
 		(path "/0271ffaf-9a24-409a-b75c-503771d2a3e1")
 		(sheetname "/")
-		(sheetfile "project 1.kicad_sch")
+		(sheetfile "ClaudeDeck-S3.kicad_sch")
 		(units
 			(unit
 				(name "A")
